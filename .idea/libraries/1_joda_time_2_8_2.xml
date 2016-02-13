@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="1_joda-time-2.8.2">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../ExpenseManager-master - Copy/ExpenseManager-master/libs/joda-time-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../raaghulr/Desktop/ExpenseManager-master - Copy/ExpenseManager-master/libs/joda-time-2.8.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
