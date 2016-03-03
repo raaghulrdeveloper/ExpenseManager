@@ -101,14 +101,20 @@ public class MainActivity extends FragmentActivity implements NavigationDrawerIt
   public boolean onOptionsItemSelected(MenuItem item) {
     int id = item.getItemId();
 
-   /* if (id == R.id.action_add_category) {
+    if (id == R.id.action_add_category) {
       Intent intent = new Intent(this, raaghulr.com.expensemanager.activity.AddCategoryActivity.class);
       startActivityForResult(intent, ADD_NEW_CAT);
       return true;
-    }*/
+    }
 
     if (id == R.id.preferences) {
       Intent intent = new Intent(this, raaghulr.com.expensemanager.activity.Preference.class);
+      startActivityForResult(intent, ADD_NEW_CAT);
+      return true;
+    }
+
+    if (id == R.id.backup) {
+      Intent intent = new Intent(this, raaghulr.com.expensemanager.activity.Backup.class);
       startActivityForResult(intent, ADD_NEW_CAT);
       return true;
     }

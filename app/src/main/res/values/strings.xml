@@ -21,6 +21,7 @@
     <string name="help">Help</string>
     <string name="aboutus">About Us</string>
     <string name="exit">Exit</string>
+    <string name="backup">Backup</string>
 
     <array name="drawer_items">
         <item>Home</item>

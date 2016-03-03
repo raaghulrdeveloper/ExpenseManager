@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Sushma\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.8.2\d27c24204c5e507b16fec01006b3d0f1ec42aed4\joda-time-2.8.2.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d27c24204c5e507b16fec01006b3d0f1ec42aed4">
-        <dex dex="C:\Users\Sushma\Documents\prj\ExpenseManager-master - Copy\ExpenseManager-master - Copy\ExpenseManager-master\app\build\intermediates\pre-dexed\debug\joda-time-2.8.2-e7d22ddd6fc3a03bb57b28543617f6e5c324967e.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sushma\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Users\Sushma\Documents\prj\ExpenseManager-master - Copy\ExpenseManager-master - Copy\ExpenseManager-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-cda3b760bcd68d21c729e94be8d29162dbb783a3.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sushma\Documents\prj\ExpenseManager-master - Copy\ExpenseManager-master - Copy\ExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Users\Sushma\Documents\prj\ExpenseManager-master - Copy\ExpenseManager-master - Copy\ExpenseManager-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-42ff11310aa920efb4974c4dd39481d933beac69.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sushma\Documents\prj\ExpenseManager-master - Copy\ExpenseManager-master - Copy\ExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jar="C:\Users\raaghulr\Documents\GitHub\ExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\Sushma\Documents\prj\ExpenseManager-master - Copy\ExpenseManager-master - Copy\ExpenseManager-master\app\build\intermediates\pre-dexed\debug\classes-f075684d049917b982a971ca625c4d64a7d122de.jar" />
+        <dex dex="C:\Users\raaghulr\Documents\GitHub\ExpenseManager\app\build\intermediates\pre-dexed\debug\classes-65843bcf79dd33a606d0731ea59fa592ae642807.jar" />
     </item>
     <item
-        jar="C:\Users\Sushma\Documents\prj\ExpenseManager-master - Copy\ExpenseManager-master - Copy\ExpenseManager-master\app\build\intermediates\exploded-aar\org.quanqi\android-holo-graph\0.1.0\jars\classes.jar"
+        jar="E:\programfiles\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\raaghulr\Documents\GitHub\ExpenseManager\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-3ea76f06345ab7e6714ec475454a7e0dddb021dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\raaghulr\Documents\GitHub\ExpenseManager\app\build\intermediates\exploded-aar\org.quanqi\android-holo-graph\0.1.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="6c702db50e4e5725d3022974a97162bf301ee2a4">
-        <dex dex="C:\Users\Sushma\Documents\prj\ExpenseManager-master - Copy\ExpenseManager-master - Copy\ExpenseManager-master\app\build\intermediates\pre-dexed\debug\classes-7ea81f54d1a1c5e4e9baa7f1329bba3a9419a38e.jar" />
+        <dex dex="C:\Users\raaghulr\Documents\GitHub\ExpenseManager\app\build\intermediates\pre-dexed\debug\classes-c06972358b73e5129d40dce9b97aac104586d947.jar" />
+    </item>
+    <item
+        jar="C:\Users\raaghulr\Documents\GitHub\ExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\raaghulr\Documents\GitHub\ExpenseManager\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c06ede13e08819abd8f0aef99b74616d60d32bc6.jar" />
+    </item>
+    <item
+        jar="C:\Users\raaghulr\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.8.2\d27c24204c5e507b16fec01006b3d0f1ec42aed4\joda-time-2.8.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d27c24204c5e507b16fec01006b3d0f1ec42aed4">
+        <dex dex="C:\Users\raaghulr\Documents\GitHub\ExpenseManager\app\build\intermediates\pre-dexed\debug\joda-time-2.8.2-badf6a8e94648000ac08b5ef726d5587fe55ef2e.jar" />
     </item>
 
 </items>
